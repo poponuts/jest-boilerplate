@@ -1,0 +1,19 @@
+{
+  "name": "jest-boilerplate",
+  "version": "1.0.0",
+  "description": "A calculator that determines the cost of bookings. A booking is the time worked between a provider and consumer.",
+  "main": "calculator.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.11",
+    "jest": "^27.5.1"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "babel-node calculator.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
